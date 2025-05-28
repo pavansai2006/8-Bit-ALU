@@ -26,3 +26,12 @@ This project implements an 8-bit Arithmetic Logic Unit (ALU) using Verilog. The 
 1. Use any Verilog simulator (e.g., Icarus Verilog, ModelSim).
 2. Compile and run the testbench
 3. View the waveform (if using GTKWave):
+
+
+---
+
+## ✍️ Author
+
+Pavan — Electronics and Communication Engineering Student  
+Designed as a fundamental arithmetic and logic unit (ALU) component simulation in Verilog.
+---
